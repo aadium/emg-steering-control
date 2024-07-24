@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\aadip\OneDrive - University of Waterloo\2nd Year\2B\BME 294\Lab\project\schematic.asc
-Start Time: Wed Jul 17 17:44:47 2024
+Start Time: Tue Jul 23 18:31:51 2024
 solver = Normal
 Maximum thread count: 12
 tnom = 27
@@ -67,10 +67,30 @@ vernier = 0.0192465
 vernier = 0.00962327
 vernier = 0.00481163
 Gmin = 1.02473e-05
-vernier = 0.00240582
-vernier = 0.00120291
-vernier = 0.000601454
-vernier = 0.000451091
+vernier = 0.00641551
+Gmin = 1.01046e-05
+vernier = 0.00855401
+vernier = 0.0114053
+Gmin = 9.87521e-06
+vernier = 0.0152071
+vernier = 0.0202762
+Gmin = 9.52255e-06
+vernier = 0.0270349
+Gmin = 8.97732e-06
+vernier = 0.0360465
+vernier = 0.048062
+Gmin = 8.15235e-06
+vernier = 0.0640826
+vernier = 0.0854435
+Gmin = 7.00046e-06
+vernier = 0.0427217
+vernier = 0.0213609
+vernier = 0.0106804
+vernier = 0.00534022
+vernier = 0.00267011
+vernier = 0.00133505
+vernier = 0.000667527
+vernier = 0.000500645
 Gmin = 0
 Gmin stepping failed
 
@@ -81,5 +101,5 @@ Source Step = 63.6364%
 Source Step = 93.9394%
 Source stepping succeeded in finding the operating point.
 
-Total elapsed time: 1.649 seconds.
+Total elapsed time: 3.705 seconds.
 
